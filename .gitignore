@@ -1,0 +1,10 @@
+server.cfg
+server_log.txt
+samp-license.txt
+server-readme.txt
+pawno/pawn.ico
+pawno/settings.ini
+*.amx
+*.dll
+*.exe
+
